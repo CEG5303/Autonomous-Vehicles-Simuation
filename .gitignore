@@ -1,0 +1,22 @@
+.vsconfig
+.vs
+Logs
+Temp
+obj\Debug
+Recordings
+Library
+
+# Visual Studio and Unity project files
+*.csproj
+*.sln
+*.suo
+*.user
+*.unityproj
+
+# Unity generated files
+**/*.meta
+Assets/StreamingAssets
+**/*.asset
+
+# Ignore heavy files from blender
+**/*.blend

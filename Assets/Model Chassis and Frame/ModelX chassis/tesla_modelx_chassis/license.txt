@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tesla ModelX chassis
+* source:	https://sketchfab.com/3d-models/tesla-modelx-chassis-c33162ad8de946f98ff604017f71b2da
+* author:	Michael Zhang (https://sketchfab.com/beyond.zht)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tesla ModelX chassis" (https://sketchfab.com/3d-models/tesla-modelx-chassis-c33162ad8de946f98ff604017f71b2da) by Michael Zhang (https://sketchfab.com/beyond.zht) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
